@@ -1,5 +1,7 @@
 # BitsXP
 
+This is a custom-written (from scratch) version of expmon for Ashita (Windower doesn't have great EXP addons).
+
 ## Preview
 
 ![BitsXP](./docs/addon-picture.png)
